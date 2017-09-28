@@ -9,4 +9,9 @@
 
 .luigi-nav{
 	padding: 0;
+    background-color: #225B78!important;
+}
+
+.luigi-nav-search-button{
+    margin: 10px 10px 10px 0; 
 }

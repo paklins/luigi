@@ -5,3 +5,8 @@
     border-radius: 0;
     border: 0;
 }
+
+.btn,
+.btn:active{
+    background-color: #68AFC4!important;
+}
